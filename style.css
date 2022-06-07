@@ -19,3 +19,26 @@
  #start,#status {
      font-size: 22px;
  }
+
+ h4 {
+     background-color: rgb(255, 0, 72);
+     color: black;
+     line-height: 2;
+     position: fixed;
+     bottom: 0;
+     margin: 0;
+     width: 100%;
+ }
+
+ a {
+    color:black; 
+ }
+
+ .modal-dialog {
+     width: 90%;
+ }
+
+ .inst {
+     display: inline-block;
+     width: 45%;
+ }
